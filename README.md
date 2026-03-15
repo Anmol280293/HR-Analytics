@@ -130,7 +130,7 @@ Performance ratings range from **1 to 4**, helping identify high-performing role
 
 ---
 
-# Key Insights
+## Key Insights
 
 From the analysis, several insights were discovered:
 
@@ -142,7 +142,7 @@ From the analysis, several insights were discovered:
 
 ---
 
-# Tools and Technologies
+## Tools and Technologies
 
 | Tool          | Purpose                        |
 | ------------- | ------------------------------ |
@@ -153,7 +153,7 @@ From the analysis, several insights were discovered:
 
 ---
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 This project demonstrates the following data analytics skills:
 
@@ -167,7 +167,7 @@ This project demonstrates the following data analytics skills:
 
 ---
 
-# Dashboard Preview
+## Dashboard Preview
 
 
 
@@ -175,7 +175,7 @@ This project demonstrates the following data analytics skills:
 
 ---
 
-# Project Workflow
+## Dashboard Preview
 
 The following steps were followed to complete this project:
 
