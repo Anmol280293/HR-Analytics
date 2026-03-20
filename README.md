@@ -171,7 +171,7 @@ This project demonstrates the following data analytics skills:
 # Dashboard Preview
 
 ```
-https://github.com/Anmol280293/HR-Analytics/blob/main/Screenshot 2026-03-15 150931.png
+https://github.com/Anmol280293/HR-Analytics/blob/main/Screenshot-2026-03-15-150931.png
 ```
 
 ---
